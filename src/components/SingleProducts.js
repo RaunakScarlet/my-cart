@@ -16,7 +16,7 @@ const SingleProducts = ({ prod }) => {
     fontWeight: 'bold',}}>Rs. { Number(prod.price.toFixed())}</span>
           </div>    
           {cart.includes(prod) ? (
-          <button {{cursor: pointer}} className='Delete' onClick={() =>
+          <button style={{ cursor: 'pointer' }} className='Delete' onClick={() =>
                       setCart(cart.filter((item) =>
                           item.id !== prod.id
                       ))}>Remove from cart</button>
@@ -25,7 +25,7 @@ const SingleProducts = ({ prod }) => {
               (
                   
       
-      <button style={{cursor: pointer}} className='add' onClick={() =>
+      <button style={{ cursor: 'pointer' }} className='add' onClick={() =>
                       setCart([...cart,prod])}>Add to cart</button>
     )
 }      
