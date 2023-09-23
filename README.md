@@ -1,3 +1,10 @@
+
+<img width="1419" alt="Screenshot 2023-09-23 at 6 33 43 PM" src="https://github.com/RaunakScarlet/shop-mart/assets/86217548/22165980-4fc2-4a8d-8502-c7df9200c8a3">
+<img width="1440" alt="Screenshot 2023-09-23 at 6 34 36 PM" src="https://github.com/RaunakScarlet/shop-mart/assets/86217548/53c1b129-1d0e-417c-8009-5a2280e1c60d">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
